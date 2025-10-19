@@ -8,16 +8,13 @@ const LatestNews = () => {
 
       <Marquee className="flex gap-5" pauseOnHover={true} speed={60}>
         <p className="font-bold">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam,
-          accusantium?
+          আস-সুন্নাহ ফাউন্ডেশনের কোরআন প্রতিযোগিতায় পুরস্কার পেলেন ১১৭ জন--
         </p>
-        <p className="font-bold">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam,
-          accusantium?
+        <p className="">
+          ২০২৪ সালকে ‘কুরআন বর্ষ’ ঘোষণা করেছিল আস-সুন্নাহ ফাউন্ডেশন। বছরজুড়ে সারাদেশের বিভিন্ন শ্রেণি-পেশার মানুষ কুরআন পাঠ ও প্রতিযোগিতায় অংশ নেন। বিশ্ববিদ্যালয়ের শিক্ষক, প্রকৌশলী, চিকিৎসক, বুয়েট ও ঢাবিসহ বিভিন্ন পাবলিক ও প্রাইভেট বিশ্ববিদ্যালয়ের শিক্ষার্থী ছাড়াও অংশ নেন খেটে খাওয়া সাধারণ মানুষ। পাঁচ ধাপের এই প্রতিযোগিতার চূড়ান্ত পর্বে ১১৭ জন প্রতিযোগীকে পুরস্কৃত করা হয়।
         </p>
-        <p className="font-bold">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam,
-          accusantium?
+        <p className="">
+          প্রতিযোগিতায় উত্তীর্ণদের মাঝে মোট ১৫ লাখ টাকার পুরস্কার প্রদান করা হয়েছে। প্রথম স্থান অর্জনকারী তিনজন আগামী নভেম্বরে ওমরাহ পালনের সুযোগ পাচ্ছেন। তারা হলেন— দক্ষিণ বারিধারার এবিসি ইন্টারন্যাশনাল স্কুলের শিক্ষার্থী কে এম ইউসুফ নূর, এশিয়া প্যাসিফিক বিশ্ববিদ্যালয়ের বিবিএ শিক্ষার্থী ফাহিম আশরাফ এবং রাজশাহী উপজেলা স্বাস্থ্য কমপ্লেক্সের ডেন্টাল সার্জন আফসানা মিম।
         </p>
       </Marquee>
     </div>
